@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(139, 255, 255);
+}
+.School{
+    margin-top: 200px;
+    margin-left: 500px;
+    width: 500px;
+    background-color: rgb(154, 154, 154);
+    border: 5px solid blue;
+    border-radius: 20px;
+}
